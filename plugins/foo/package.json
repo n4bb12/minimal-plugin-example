@@ -1,0 +1,10 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "main": "foo.js",
+  "dependencies": {
+    "lodash.lowercase": "^4.3.0"
+  }
+}
